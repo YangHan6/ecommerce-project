@@ -20,5 +20,3 @@ This is my personal learning project.
 
 ## Author
 Yang Han
-Jingdezhen University
-Computer Science
